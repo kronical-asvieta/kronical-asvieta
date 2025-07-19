@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kronical-asvieta
 - 👀 I’m interested in computer science and music
-- 🌱 I’m currently learning C / C#
+- 🌱 Fan of Python, Rust and C
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love templates
