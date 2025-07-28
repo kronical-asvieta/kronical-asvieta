@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @kronical-asvieta
-- 👀 I’m interested in computer science and music
-- 🌱 Fan of Python, Rust and C
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love templates
+what's the coding equivalent of Frequency Chaos
